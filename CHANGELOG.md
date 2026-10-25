@@ -1,5 +1,11 @@
 # 更新内容
 
+## PokemonStart v0.59.9
+
+### 修正（Bugfix）
+
+- なんかよくわからないけど、修正しました
+
 ## PokemonStart v0.59.8
 
 ### 注意
