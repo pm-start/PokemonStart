@@ -1,6 +1,6 @@
-# PokemonStart v0.65.1
+# PokemonStart v0.66.0
 
-配布ファイルは PokemonStart_v0.65.1.pks です。
+配布ファイルは PokemonStart_v0.66.0.pks です。
 
 ## おしらせ
 
