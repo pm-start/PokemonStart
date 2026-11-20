@@ -1,6 +1,6 @@
-# PokemonStart v0.73.1
+# PokemonStart v0.73.2
 
-配布ファイルは PokemonStart_v0.73.1.pks です。
+配布ファイルは PokemonStart_v0.73.2.pks です。
 
 ## おしらせ
 
