@@ -5,7 +5,7 @@
 ## おしらせ
 
 - 更新の前に、セーブデータのバックアップをとってください
-- 0.62.3 のセーブは、そのまま続けて遊べます
+- 0.67.x〜0.72.0 のセーブは、そのまま続けて遊べます（変換はいりません）。0.66.x 以前のセーブは、付属の「セーブデータいこうツール」で変換してから遊んでください
 
 ## 遊ぶための mGBA
 
@@ -48,6 +48,8 @@ ROM が 128MB なので、新しい mGBA（rom128 の版）でしか遊べませ
 - キタカミ（地図）: SoulGold（eemeliri。土台 pokeemerald-expansion（RHH）・Heart & Soul・smithk200 ほか SoulGold の README のクレジット）
 - 2 つ目の特性の考え: SoulGold（eemeliri・bassforte123）
 - ゲンガー・メガゲンガーの絵: SoulGold（eemeliri ほか SoulGold の README のクレジット）
+- 想像ポケモン（キロン・タイキロン・シンキロン・カジュラノス・ゲンシレジギガス）: やん之助 氏・白縫ブラン 氏
+- 持たせる道具 6 種（ビリビリだま・しあわせリボン・モモンスカーフ・チーゴスカーフ・みとおしめがね・キーのハチマキ）: クロマグロ13 氏
 - 128MB の ROM に対応させた mGBA: mGBA（Jeffrey Pfau ほか）／ mGBA celio edition（Exormeter）。変更したソース: https://github.com/pm-start/mGBA_celio_edition/tree/rom128
 - Moémon の絵: Moemon Project（https://discord.gg/Ds7bjJMumn）とその作者のみなさん。作者の一覧は .pks の中の「Moemonクレジット.txt」「Moemonクレジット（絵ごと）.txt」
 - pokeemerald-expansion（rh-hideout）ほか。詳しくは各プロジェクトのクレジットを参照
