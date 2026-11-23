@@ -1,11 +1,11 @@
-# PokemonStart v0.75.3
+# PokemonStart v0.75.4
 
-配布ファイルは PokemonStart_v0.75.3.pks です。
+配布ファイルは PokemonStart_v0.75.4.pks です。
 
 ## おしらせ
 
 - 更新の前に、セーブデータのバックアップをとってください
-- 0.67.x〜0.75.2 のセーブは、そのまま続けて遊べます（変換はいりません）。0.75.3 で保存したセーブは、それより前の版（0.75.2 をふくむ）では開けません（つづきから が出ません）。古い版で「はじめから」を選んでレポートを書くと、0.75.3 のセーブは消えます。0.66.x 以前のセーブは、付属の「セーブデータいこうツール」で変換してから遊んでください
+- 0.67.x〜0.75.3 のセーブは、そのまま続けて遊べます（変換はいりません）。0.75.4 で保存したセーブは、それより前の版（0.75.3 をふくむ）では開けません（つづきから が出ません）。古い版で「はじめから」を選んでレポートを書くと、0.75.4 のセーブは消えます。0.66.x 以前のセーブは、付属の「セーブデータいこうツール」で変換してから遊んでください
 
 ## 遊ぶための mGBA
 
@@ -42,6 +42,7 @@ ROM が 128MB なので、新しい mGBA（rom128 の版）でしか遊べませ
   - せってい: Compumaxx, Shiny Miner
   - 手持ち: ansh860, Shiny Miner, Compumaxx
   - ステータス: CompuMaxx, Acimut, mZake, Shiny Miner
+- サイドクエストのメニュー: YeahPotato・Bakinet・vopipak・Star Dragon・Shiny Miner・1RWTU16KU1D（Shiny-Miner/CFRU-expansion の README のクレジット「Sidequest Menu」）
 - ジョウト: Pokémon Heart & Soul（Lil Dill・TixoRebel ほか HnS Dev Team。素材 Crystal Advance（Kertra）・Ekat99・TheDeadHeroAlistair・Johto Redrawn Team ほか）
 - シンオウの地図: Neo Platinum（Lider Morti）・雪のタイル（whackahack「tiles de nieve invierno」）・Sinnoh Legacy
 - 斜めの階段: Spherical Ice
