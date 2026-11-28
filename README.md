@@ -1,11 +1,11 @@
-# PokemonStart v0.77.0
+# PokemonStart v0.78.0
 
-配布ファイルは PokemonStart_v0.77.0.pks です。
+配布ファイルは PokemonStart_v0.78.0.pks です。
 
 ## おしらせ
 
 - 更新の前に、セーブデータのバックアップをとってください
-- 0.67.x〜0.76.0 のセーブは、そのまま続けて遊べます（変換はいりません）。0.77.0 で保存したセーブは、それより前の版（0.76.0 をふくむ）では開けません（つづきから が出ません）。古い版で「はじめから」を選んでレポートを書くと、0.77.0 のセーブは消えます。0.66.x 以前のセーブは、付属の「セーブデータいこうツール」で変換してから遊んでください
+- 0.67.x〜0.77.0 のセーブは、そのまま続けて遊べます（変換はいりません）。0.78.0 で保存したセーブは、それより前の版（0.77.0 をふくむ）では開けません（つづきから が出ません）。古い版で「はじめから」を選んでレポートを書くと、0.78.0 のセーブは消えます。0.66.x 以前のセーブは、付属の「セーブデータいこうツール」で変換してから遊んでください
 
 ## 遊ぶための mGBA
 
@@ -56,6 +56,10 @@ ROM が 128MB なので、新しい mGBA（rom128 の版）でしか遊べませ
 - 技の演出の差し替え素材: そらはれ 氏
 - 128MB の ROM に対応させた mGBA: mGBA（Jeffrey Pfau ほか）／ mGBA celio edition（Exormeter）。変更したソース: https://github.com/pm-start/mGBA_celio_edition/tree/rom128
 - Moémon の絵: Moemon Project（https://discord.gg/Ds7bjJMumn）とその作者のみなさん。作者の一覧は .pks の中の「Moemonクレジット.txt」「Moemonクレジット（絵ごと）.txt」
+- ジョウトのショップの建物の絵: MART E1（Alistair〈TheDreadHeroAlistair／TheWildDeadHero〉ほか素材集の FRLG Style の作者・Team Aqua's Asset Repo）
+- ギンガ団の歩き姿: Galaxeeh（Team Aqua's Asset Repo・元絵 aveontrainer・PurpleZaffre）
+- ジョウトのジムリーダーなどの戦闘の絵: Black Fragrant（Pokémon FireGold・Team Aqua's Asset Repo）
+- ずかんの説明文: PokéAPI（pokeapi/pokeapi）
 - pokeemerald-expansion（rh-hideout）ほか。詳しくは各プロジェクトのクレジットを参照
 - 営利目的での利用はできません（CFRU の条件）
 
